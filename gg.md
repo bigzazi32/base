@@ -9,6 +9,7 @@ verome
 han
 heist
 armored
+tank
 fast
 letty
 police
