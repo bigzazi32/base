@@ -14,3 +14,4 @@ yeet
 kaito
 infinit
 goat
+network
