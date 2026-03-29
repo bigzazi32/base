@@ -21,6 +21,7 @@ vince
 helm
 allonsy
 preacher
+curl
 dom
 dominic
 toretto
