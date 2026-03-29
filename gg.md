@@ -27,3 +27,4 @@ family
 familiar
 familia
 cooking
+chin up
