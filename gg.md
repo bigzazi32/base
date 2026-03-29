@@ -8,6 +8,7 @@ commit
 verome
 han
 heist
+armored
 fast
 letty
 police
