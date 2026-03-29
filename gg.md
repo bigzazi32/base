@@ -28,3 +28,4 @@ familiar
 familia
 cooking
 chin up
+press up
