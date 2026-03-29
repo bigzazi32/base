@@ -16,3 +16,4 @@ infinit
 goat
 network
 base
+guild
