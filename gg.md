@@ -14,6 +14,7 @@ armored
 tank
 fast
 letty
+repeat
 police
 bicep
 car
