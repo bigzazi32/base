@@ -8,6 +8,7 @@ tricep
 megabyte
 bitcoin
 athlete
+hibiscus
 enzo
 gemini
 gator
