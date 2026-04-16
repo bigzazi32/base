@@ -7,6 +7,7 @@ zeus
 tricep
 megabyte
 bitcoin
+BASE
 athlete
 life
 water
