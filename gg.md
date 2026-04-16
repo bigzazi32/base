@@ -13,6 +13,7 @@ water
 hibiscus
 enzo
 gemini
+nft
 gator
 efootball
 codm
