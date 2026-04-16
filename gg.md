@@ -9,6 +9,7 @@ sunday
 robbery
 chrome
 lift
+whatsapp
 ghana
 ouranix
 google
