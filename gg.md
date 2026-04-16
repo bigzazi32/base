@@ -2,6 +2,7 @@ xoxo
 vin 
 diesel
 ze
+d2
 zeus
 tricep
 megabyte
