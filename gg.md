@@ -8,6 +8,7 @@ megabyte
 gator
 hunters
 and
+bit
 jazel
 raw
 kilobyte
