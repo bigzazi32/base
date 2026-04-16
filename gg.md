@@ -9,6 +9,7 @@ megabyte
 bitcoin
 athlete
 enzo
+gemini
 gator
 efootball
 codm
