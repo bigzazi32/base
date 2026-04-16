@@ -13,6 +13,7 @@ burkina
 sunday
 robbery
 chrome
+luck
 messenger
 lift
 good      
