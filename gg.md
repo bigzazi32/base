@@ -15,6 +15,7 @@ chrome
 lift
 whatsapp
 ghana
+gator
 ouranix
 google
 algeria
