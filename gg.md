@@ -18,6 +18,7 @@ lift
 whatsapp
 ghana
 gator
+faso
 hunting
 ouranix
 google
