@@ -6,6 +6,7 @@ d2
 zeus
 tricep
 megabyte
+athlete
 gator
 d3
 hunters
