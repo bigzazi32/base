@@ -10,6 +10,7 @@ bitcoin
 BASE
 athlete
 life
+pharmacy
 water
 hibiscus
 iccm
