@@ -7,6 +7,7 @@ jazel
 raw
 sunday
 robbery
+chrome
 lift
 ghana
 ouranix
