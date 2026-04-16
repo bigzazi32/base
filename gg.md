@@ -11,6 +11,7 @@ benin
 twitter
 faux knee gerr
 afghanistan
+bot rix
 shaw
 hana
 commit
