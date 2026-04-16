@@ -7,6 +7,7 @@ zeus
 tricep
 megabyte
 gator
+d3
 hunters
 and
 seed
