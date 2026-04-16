@@ -11,6 +11,7 @@ and
 seed
 bit
 jazel
+github
 raw
 kilobyte
 burkina
