@@ -7,6 +7,7 @@ jazel
 raw
 sunday
 robbery
+ghana
 ouranix
 algeria
 deacon
