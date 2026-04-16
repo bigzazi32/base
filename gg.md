@@ -4,6 +4,7 @@ diesel
 ze
 zeus
 tricep
+megabyte
 gator
 hunters
 and
