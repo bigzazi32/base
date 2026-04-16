@@ -10,6 +10,7 @@ deacon
 benin
 twitter
 faux knee gerr
+afghanistan
 shaw
 hana
 commit
