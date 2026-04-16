@@ -9,6 +9,7 @@ hunters
 and
 jazel
 raw
+burkina
 sunday
 robbery
 chrome
